@@ -1,0 +1,1 @@
+Sobre la extracción realizada previamente se hace un análisis despues de haber hecho un bosquejo inicial. Aqui se **leen requisitos, se conceptúan, se investigan, se buscan alternativas y soluciones** y luego, se **fijan reuniones con el cliente**

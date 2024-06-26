@@ -1,0 +1,1 @@
+Se **documentan** los requisitos acordados con el cliente, en un nivel apropiado de detalle. La especificación es como *pasar en limpio* el analisis realizado previamente con herramientas de documentación como [[UML]]

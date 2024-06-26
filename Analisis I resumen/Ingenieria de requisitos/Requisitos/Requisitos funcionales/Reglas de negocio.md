@@ -1,0 +1,1 @@
+Declaraciones de **alto nivel** que definen lo que un sistema debe hacer.

@@ -1,0 +1,1 @@
+Especifican **medidas** que un sistema debe tomar para **proteger los datos** del acceso no autorizado.

@@ -1,0 +1,1 @@
+Proceso de desarrollar una especificación de Software. Las especificaciones pretenden comunicar las necesidades del sistema del cliente a los desarrolladores del sistema. Mediante esta ingenieria se obtienen los [[Requisitos]] del sistema.

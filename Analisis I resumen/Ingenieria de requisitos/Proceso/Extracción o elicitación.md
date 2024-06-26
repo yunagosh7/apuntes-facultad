@@ -1,0 +1,1 @@
+Representa el **comienzo de cada ciclo**. Se trata del descubrimiento de los requisitos del sistema.

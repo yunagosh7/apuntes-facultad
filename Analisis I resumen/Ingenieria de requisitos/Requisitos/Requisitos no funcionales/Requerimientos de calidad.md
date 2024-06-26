@@ -1,0 +1,1 @@
+Nivel de **calidad** que debe cumplir un sistema. Algunas veces puede especificar además, los métodos utilizados para medir la calidad, como la densidad de defectos o la satisfacción del cliente.

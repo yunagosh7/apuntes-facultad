@@ -1,0 +1,1 @@
+Etapa **final**. Su objetivo es verificar todos los requisitos que aparecen en el documento especificado para **asegurarse que representan una descripción**, por lo menos aceptables del sistema que se debe implementar. Esto implica **verificar que los requisitos sean consistentes**

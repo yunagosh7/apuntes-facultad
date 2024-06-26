@@ -1,0 +1,1 @@
+Describen **acciones específicas** que el ingeniero de software debe ser capaz de realizar durante el desarrollo de software. Los requerimientos funcionales se dividen a menudo entre [[Reglas de negocio]] y [[Casos de uso]]
