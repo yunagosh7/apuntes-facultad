@@ -1,52 +1,39 @@
 {
   "main": {
-    "id": "20a12e03c1f71cea",
+    "id": "413345f49d002cd4",
     "type": "split",
     "children": [
       {
-        "id": "5c5164b1068972dd",
+        "id": "ee6de84afe80e7db",
         "type": "tabs",
         "children": [
           {
-            "id": "74d2af79c32ad186",
+            "id": "1e990f2fbec3e88c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Analisis I resumen/Ingenieria de requisitos/Requisitos/Requisitos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d8f2f0a6a6cbd900",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Analisis I resumen/Ingenieria de requisitos/Proceso/Validación.md",
+                "file": "2024-06-25.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "0580b102a0139129",
+    "id": "32d495f035e0ad09",
     "type": "split",
     "children": [
       {
-        "id": "912857787ec9f002",
+        "id": "b9fad00df165a808",
         "type": "tabs",
         "children": [
           {
-            "id": "ac617d71783878dc",
+            "id": "9a2e2e7d5baced09",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -56,7 +43,7 @@
             }
           },
           {
-            "id": "7804d5b11d48262a",
+            "id": "9d0d0e76efe4b88f",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -71,34 +58,35 @@
             }
           },
           {
-            "id": "4213393a82b4cbe2",
+            "id": "37d01e021eae5c19",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
   "right": {
-    "id": "3f5006cd66456f56",
+    "id": "75ac7686b37a354f",
     "type": "split",
     "children": [
       {
-        "id": "f35cbda937b58166",
+        "id": "7a8a638ed8ddb4aa",
         "type": "tabs",
         "children": [
           {
-            "id": "3eccb66ec2e70071",
+            "id": "b444c99fecfc9bea",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analisis I resumen/Ingenieria de requisitos/Proceso/Validación.md",
+                "file": "2024-06-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,19 +98,19 @@
             }
           },
           {
-            "id": "352f8051841f0722",
+            "id": "aeaeca411950c507",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Analisis I resumen/Ingenieria de requisitos/Proceso/Validación.md",
+                "file": "2024-06-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "fb17d9df8fda79ac",
+            "id": "6932c87cfe886c3c",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,21 +121,29 @@
             }
           },
           {
-            "id": "09b9efd5465cfa17",
+            "id": "0f113f2dbcefeaaf",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Analisis I resumen/Ingenieria de requisitos/Proceso/Validación.md"
+                "file": "2024-06-25.md"
               }
             }
+          },
+          {
+            "id": "15ff95ab5015295f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,32 +155,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d8f2f0a6a6cbd900",
+  "active": "1e990f2fbec3e88c",
   "lastOpenFiles": [
-    "key-github.pub",
-    "key-github",
-    "Analisis I resumen/Ingenieria de requisitos/Proceso/Proceso.md",
-    "Analisis I resumen/Ingenieria de requisitos/Proceso/Validación.md",
-    "Analisis I resumen/Ingenieria de requisitos/Requisitos/Requisitos.md",
-    "Analisis I resumen/UML.md",
     "Untitled.canvas",
-    "Analisis I resumen/Ingenieria de requisitos/Proceso/Especificación.md",
-    "Analisis I resumen/Ingenieria de requisitos/Proceso/Análisis.md",
-    "Analisis I resumen/Ingenieria de requisitos/Proceso/Extracción o elicitación.md",
-    "Analisis I resumen/Ingenieria de requisitos/Ingeniera de requisitos.md",
-    "Analisis I resumen/Ingenieria de requisitos/Proceso",
-    "Analisis I resumen/Ingenieria de requisitos",
-    "Analisis I resumen/Ingenieria de requisitos/Requisitos/Requisitos no funcionales/Requisitos no funcionales.md",
-    "Analisis I resumen/Ingenieria de requisitos/Requisitos/Requisitos no funcionales/Requerimientos de calidad.md",
-    "Analisis I resumen/Ingenieria de requisitos/Requisitos/Requisitos no funcionales/Requerimientos de seguridad.md",
-    "Analisis I resumen/Ingenieria de requisitos/Requisitos/Requisitos no funcionales/Requerimientos de rendimiento.md",
-    "Analisis I resumen/Ingenieria de requisitos/Requisitos/Requisitos funcionales/Reglas de negocio.md",
-    "Analisis I resumen/Ingenieria de requisitos/Requisitos/Requisitos funcionales/Casos de uso.md",
-    "Analisis I resumen/Ingenieria de requisitos/Requisitos/Requisitos funcionales/Requisitos funcionales.md",
-    "Analisis I resumen/Ingenieria de requisitos/Requisitos/Requisitos no funcionales",
-    "Analisis I resumen/Ingenieria de requisitos/Requisitos/Requisitos funcionales",
-    "Analisis I resumen/Ingenieria de requisitos/Requisitos",
-    "Analisis I resumen/Teoria general de sistemas.md",
-    "Analisis I resumen"
+    "2024-06-25.md",
+    "obsidian-git-2.24.3.zip",
+    "Matematica II/Determinantes/En matrices 3x3.md",
+    "Matematica II/Determinantes/Determinantes.md",
+    "Matematica II/Determinantes/Menor complementario.md",
+    "Matematica II/Determinantes/Metodo de Adjuntas o Cofactores.md",
+    "Matematica II/Determinantes/Regla de Sarrus.md",
+    "Pasted image 20240625211745.png",
+    "pene.md",
+    "Matematica II/Determinantes/En matrices 2x2.md",
+    "Matematica II/Determinantes/Matrices 3x3",
+    "Pasted image 20240625211315.png",
+    "Pasted image 20240625211232.png",
+    "Pasted image 20240625211207.png",
+    "Matematica II/Untitled.md",
+    "Matematica II/Determinantes",
+    "Matematica II",
+    "Second test.md",
+    "Test note.md",
+    "caca.md",
+    "Untitled",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas"
   ]
 }
