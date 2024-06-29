@@ -1,0 +1,1 @@
+Enunciados que puede determinarse su valor de verdad.

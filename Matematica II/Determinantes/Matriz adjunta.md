@@ -1,0 +1,1 @@
+Es la matriz de los [[Metodo de Adjuntas o Cofactores |adjuntos]]  o matriz cofactor, 

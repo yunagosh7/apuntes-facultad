@@ -4,31 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "5c5164b1068972dd",
+        "id": "b024e0b33f42d76a",
         "type": "tabs",
         "children": [
           {
-            "id": "74d2af79c32ad186",
+            "id": "46be2ac67f1c8a50",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Analisis I resumen/Ingenieria de requisitos/Requisitos/Requisitos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d8f2f0a6a6cbd900",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -151,46 +138,50 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d8f2f0a6a6cbd900",
+  "active": "46be2ac67f1c8a50",
   "lastOpenFiles": [
+    "Logica/Reglas de inferencia/Reglas de inferencia.md",
+    "Logica/Reglas de inferencia/Dilema destructivo.md",
+    "Logica/Reglas de inferencia/Dilema constructivo.md",
+    "Logica/Reglas de inferencia/Modus Tollens.md",
+    "Logica/Reglas de inferencia/Inferencia.md",
+    "Logica/Reglas de inferencia/Silogismo disyuntivo.md",
+    "Logica/Reglas de inferencia/Silogismo hipotetico.md",
+    "Untitled.canvas",
+    "2024-06-25.md",
+    "Logica/Reglas de inferencia/Modus Ponens.md",
+    "Logica/Preposiciones.md",
+    "Matematica II/Determinantes/Regla de Laplace.md",
+    "Logica/Reglas de inferencia",
+    "Logica",
+    "Matematica II/Determinantes/Metodo de Adjuntas o Cofactores.md",
+    "Pasted image 20240626185654.png",
+    "Pasted image 20240626185557.png",
+    "Matematica II/Determinantes/Matriz adjunta.md",
+    "Matematica II/Determinantes/En matrices 3x3.md",
+    "Analisis I resumen/Ingenieria de requisitos/Requisitos/Requisitos.md",
     "Analisis I resumen/Ingenieria de requisitos/Proceso/Validación.md",
     "Pasted image 20240625211745.png",
     "Pasted image 20240625211315.png",
     "Pasted image 20240625211232.png",
     "Pasted image 20240625211207.png",
     "Matematica II/Determinantes/Regla de Sarrus.md",
-    "Matematica II/Determinantes/Metodo de Adjuntas o Cofactores.md",
     "Matematica II/Determinantes/Menor complementario.md",
-    "Matematica II/Determinantes/En matrices 3x3.md",
     "Matematica II/Determinantes/En matrices 2x2.md",
     "Matematica II/Determinantes/Determinantes.md",
     "Matematica II/Untitled.md",
     "Matematica II/Determinantes",
     "Matematica II",
-    "2024-06-25.md",
     "key-github.pub",
     "key-github",
     "Analisis I resumen/Ingenieria de requisitos/Proceso/Proceso.md",
-    "Analisis I resumen/Ingenieria de requisitos/Requisitos/Requisitos.md",
     "Analisis I resumen/UML.md",
-    "Untitled.canvas",
     "Analisis I resumen/Ingenieria de requisitos/Proceso/Especificación.md",
     "Analisis I resumen/Ingenieria de requisitos/Proceso/Análisis.md",
     "Analisis I resumen/Ingenieria de requisitos/Proceso/Extracción o elicitación.md",
-    "Analisis I resumen/Ingenieria de requisitos/Ingeniera de requisitos.md",
     "Analisis I resumen/Ingenieria de requisitos/Proceso",
     "Analisis I resumen/Ingenieria de requisitos",
-    "Analisis I resumen/Ingenieria de requisitos/Requisitos/Requisitos no funcionales/Requisitos no funcionales.md",
-    "Analisis I resumen/Ingenieria de requisitos/Requisitos/Requisitos no funcionales/Requerimientos de calidad.md",
-    "Analisis I resumen/Ingenieria de requisitos/Requisitos/Requisitos no funcionales/Requerimientos de seguridad.md",
-    "Analisis I resumen/Ingenieria de requisitos/Requisitos/Requisitos no funcionales/Requerimientos de rendimiento.md",
-    "Analisis I resumen/Ingenieria de requisitos/Requisitos/Requisitos funcionales/Reglas de negocio.md",
-    "Analisis I resumen/Ingenieria de requisitos/Requisitos/Requisitos funcionales/Casos de uso.md",
-    "Analisis I resumen/Ingenieria de requisitos/Requisitos/Requisitos funcionales/Requisitos funcionales.md",
     "Analisis I resumen/Ingenieria de requisitos/Requisitos/Requisitos no funcionales",
-    "Analisis I resumen/Ingenieria de requisitos/Requisitos/Requisitos funcionales",
-    "Analisis I resumen/Ingenieria de requisitos/Requisitos",
-    "Analisis I resumen/Teoria general de sistemas.md",
-    "Analisis I resumen"
+    "Analisis I resumen/Ingenieria de requisitos/Requisitos/Requisitos funcionales"
   ]
 }
